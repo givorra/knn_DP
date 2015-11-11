@@ -1,0 +1,40 @@
+<<<<<<<< Test 0 >>>>>>>>
+Aciertos: 811
+Fallos: 213
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 1 >>>>>>>>
+Aciertos: 795
+Fallos: 229
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 2 >>>>>>>>
+Aciertos: 796
+Fallos: 228
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 3 >>>>>>>>
+Aciertos: 801
+Fallos: 223
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 4 >>>>>>>>
+Aciertos: 821
+Fallos: 203
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 5 >>>>>>>>
+Aciertos: 795
+Fallos: 229
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 6 >>>>>>>>
+Aciertos: 781
+Fallos: 243
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 7 >>>>>>>>
+Aciertos: 789
+Fallos: 235
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 8 >>>>>>>>
+Aciertos: 785
+Fallos: 239
+Tasa de aciertos: 8.0%
+<<<<<<<< Test 9 >>>>>>>>
+Aciertos: 798
+Fallos: 226
+Tasa de aciertos: 8.0%
